@@ -1,0 +1,379 @@
+{
+    "images": [
+        "Blur"
+    ],
+    "threshold": 100.0,
+    "fix_size": true,
+    "results": [
+        {
+            "input_path": "Blur/10022.jpg",
+            "score": 1.1306541170653202,
+            "blurry": true
+        },
+        {
+            "input_path": "Blur/10058.jpg",
+            "score": 1.8953438067761708,
+            "blurry": true
+        },
+        {
+            "input_path": "Blur/IMG_20220126_145156.jpg",
+            "score": 867.751531486002,
+            "blurry": false
+        },
+        {
+            "input_path": "Blur/10030.jpg",
+            "score": 0.5193189583306376,
+            "blurry": true
+        },
+        {
+            "input_path": "Blur/10034.jpg",
+            "score": 2.528840064617722,
+            "blurry": true
+        },
+        {
+            "input_path": "Blur/IMG_20220126_145020.jpg",
+            "score": 1093.9561326022247,
+            "blurry": false
+        },
+        {
+            "input_path": "Blur/10048.jpg",
+            "score": 1.316168506147278,
+            "blurry": true
+        },
+        {
+            "input_path": "Blur/IMG_20220126_145428.jpg",
+            "score": 1625.8303298024475,
+            "blurry": false
+        },
+        {
+            "input_path": "Blur/10033.jpg",
+            "score": 1.8202635798738345,
+            "blurry": true
+        },
+        {
+            "input_path": "Blur/10027.jpg",
+            "score": 1.7236611140089872,
+            "blurry": true
+        },
+        {
+            "input_path": "Blur/10005.jpg",
+            "score": 1.2338944155978504,
+            "blurry": true
+        },
+        {
+            "input_path": "Blur/10052.jpg",
+            "score": 1.0807633159469332,
+            "blurry": true
+        },
+        {
+            "input_path": "Blur/10013.jpg",
+            "score": 0.9866259968284017,
+            "blurry": true
+        },
+        {
+            "input_path": "Blur/10004.jpg",
+            "score": 1.1609236543713157,
+            "blurry": true
+        },
+        {
+            "input_path": "Blur/10045.jpg",
+            "score": 1.4764365654914147,
+            "blurry": true
+        },
+        {
+            "input_path": "Blur/10016.jpg",
+            "score": 0.5309192361209814,
+            "blurry": true
+        },
+        {
+            "input_path": "Blur/10018.jpg",
+            "score": 0.8920928534646888,
+            "blurry": true
+        },
+        {
+            "input_path": "Blur/10046.jpg",
+            "score": 1.1504383093423671,
+            "blurry": true
+        },
+        {
+            "input_path": "Blur/IMG_20211229_083953.jpg",
+            "score": 930.6374411266349,
+            "blurry": false
+        },
+        {
+            "input_path": "Blur/10042.jpg",
+            "score": 2.431626682237237,
+            "blurry": true
+        },
+        {
+            "input_path": "Blur/10056.jpg",
+            "score": 2.262859824905511,
+            "blurry": true
+        },
+        {
+            "input_path": "Blur/10002.jpg",
+            "score": 1.760546365806644,
+            "blurry": true
+        },
+        {
+            "input_path": "Blur/10040.jpg",
+            "score": 0.6468210212698732,
+            "blurry": true
+        },
+        {
+            "input_path": "Blur/10051.jpg",
+            "score": 1.5178070974380977,
+            "blurry": true
+        },
+        {
+            "input_path": "Blur/10025.jpg",
+            "score": 0.4858129996636508,
+            "blurry": true
+        },
+        {
+            "input_path": "Blur/10061.jpg",
+            "score": 1.5080442024706193,
+            "blurry": true
+        },
+        {
+            "input_path": "Blur/10012.jpg",
+            "score": 0.7245766721724374,
+            "blurry": true
+        },
+        {
+            "input_path": "Blur/10009.jpg",
+            "score": 0.7228122175015514,
+            "blurry": true
+        },
+        {
+            "input_path": "Blur/10003.jpg",
+            "score": 1.1519173599364545,
+            "blurry": true
+        },
+        {
+            "input_path": "Blur/10015.jpg",
+            "score": 1.881110213052164,
+            "blurry": true
+        },
+        {
+            "input_path": "Blur/IMG_20220106_155457.jpg",
+            "score": 1226.378626138862,
+            "blurry": false
+        },
+        {
+            "input_path": "Blur/IMG_20220126_145227.jpg",
+            "score": 317.12090578998357,
+            "blurry": false
+        },
+        {
+            "input_path": "Blur/10043.jpg",
+            "score": 0.8882648253379097,
+            "blurry": true
+        },
+        {
+            "input_path": "Blur/10050.jpg",
+            "score": 1.2316055645330892,
+            "blurry": true
+        },
+        {
+            "input_path": "Blur/10059.jpg",
+            "score": 2.7918416383250757,
+            "blurry": true
+        },
+        {
+            "input_path": "Blur/IMG_20211228_082631.jpg",
+            "score": 3413.791710037658,
+            "blurry": false
+        },
+        {
+            "input_path": "Blur/10017.jpg",
+            "score": 0.6625986845207553,
+            "blurry": true
+        },
+        {
+            "input_path": "Blur/10049.jpg",
+            "score": 1.425115682296523,
+            "blurry": true
+        },
+        {
+            "input_path": "Blur/10024.jpg",
+            "score": 1.2850692420893186,
+            "blurry": true
+        },
+        {
+            "input_path": "Blur/10041.jpg",
+            "score": 1.4607416127206123,
+            "blurry": true
+        },
+        {
+            "input_path": "Blur/10055.jpg",
+            "score": 1.2150175883010823,
+            "blurry": true
+        },
+        {
+            "input_path": "Blur/10029.jpg",
+            "score": 1.3825089876608747,
+            "blurry": true
+        },
+        {
+            "input_path": "Blur/10020.jpg",
+            "score": 1.9734767791412042,
+            "blurry": true
+        },
+        {
+            "input_path": "Blur/10035.jpg",
+            "score": 0.34103002269706334,
+            "blurry": true
+        },
+        {
+            "input_path": "Blur/IMG_20220126_145057.jpg",
+            "score": 5957.914905205344,
+            "blurry": false
+        },
+        {
+            "input_path": "Blur/10008.jpg",
+            "score": 1.0505766761692852,
+            "blurry": true
+        },
+        {
+            "input_path": "Blur/IMG_20220126_145147.jpg",
+            "score": 1644.4892114222112,
+            "blurry": false
+        },
+        {
+            "input_path": "Blur/IMG_20220126_145312.jpg",
+            "score": 7808.7525504606765,
+            "blurry": false
+        },
+        {
+            "input_path": "Blur/10054.jpg",
+            "score": 1.0255172744418373,
+            "blurry": true
+        },
+        {
+            "input_path": "Blur/10021.jpg",
+            "score": 1.109890949513635,
+            "blurry": true
+        },
+        {
+            "input_path": "Blur/10037.jpg",
+            "score": 0.5452366907316705,
+            "blurry": true
+        },
+        {
+            "input_path": "Blur/10007.jpg",
+            "score": 1.560025712146188,
+            "blurry": true
+        },
+        {
+            "input_path": "Blur/10010.jpg",
+            "score": 0.6499655794992465,
+            "blurry": true
+        },
+        {
+            "input_path": "Blur/10014.jpg",
+            "score": 1.418427494680801,
+            "blurry": true
+        },
+        {
+            "input_path": "Blur/IMG_20220126_145215.jpg",
+            "score": 350.28771749123035,
+            "blurry": false
+        },
+        {
+            "input_path": "Blur/10057.jpg",
+            "score": 2.304398406912945,
+            "blurry": true
+        },
+        {
+            "input_path": "Blur/10036.jpg",
+            "score": 0.48604221692535976,
+            "blurry": true
+        },
+        {
+            "input_path": "Blur/10044.jpg",
+            "score": 1.3296070999822873,
+            "blurry": true
+        },
+        {
+            "input_path": "Blur/10053.jpg",
+            "score": 1.667446704489997,
+            "blurry": true
+        },
+        {
+            "input_path": "Blur/10060.jpg",
+            "score": 5.508905764738426,
+            "blurry": true
+        },
+        {
+            "input_path": "Blur/10032.jpg",
+            "score": 0.9949913656504673,
+            "blurry": true
+        },
+        {
+            "input_path": "Blur/10026.jpg",
+            "score": 1.4423229571321876,
+            "blurry": true
+        },
+        {
+            "input_path": "Blur/10038.jpg",
+            "score": 1.6441879566549962,
+            "blurry": true
+        },
+        {
+            "input_path": "Blur/10039.jpg",
+            "score": 2.676822764120417,
+            "blurry": true
+        },
+        {
+            "input_path": "Blur/IMG_20200328_103244.jpg",
+            "score": 6586.546176886553,
+            "blurry": false
+        },
+        {
+            "input_path": "Blur/10019.jpg",
+            "score": 1.3110120541311943,
+            "blurry": true
+        },
+        {
+            "input_path": "Blur/IMG_20200328_103254.jpg",
+            "score": 7041.763526973477,
+            "blurry": false
+        },
+        {
+            "input_path": "Blur/10023.jpg",
+            "score": 0.9315861102802492,
+            "blurry": true
+        },
+        {
+            "input_path": "Blur/10047.jpg",
+            "score": 1.4985482906808074,
+            "blurry": true
+        },
+        {
+            "input_path": "Blur/10031.jpg",
+            "score": 1.1451942778574977,
+            "blurry": true
+        },
+        {
+            "input_path": "Blur/IMG_20211018_213156.jpg",
+            "score": 3016.153079753908,
+            "blurry": false
+        },
+        {
+            "input_path": "Blur/10011.jpg",
+            "score": 1.0589457279413035,
+            "blurry": true
+        },
+        {
+            "input_path": "Blur/10028.jpg",
+            "score": 2.202646589348237,
+            "blurry": true
+        },
+        {
+            "input_path": "Blur/10062.png",
+            "score": 0.2904828984021844,
+            "blurry": true
+        }
+    ]
+}
